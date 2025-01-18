@@ -1,1 +1,1 @@
-# machine_learning_interview
+Place for me to find my machine learning interview preparation resources
